@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:background="@color/milk_white"
+    android:gravity="center">
+
+    <TextView
+        android:id="@+id/basic"
+        android:text="@string/basic"
+        style="@style/mainactivity_text_style" />
+
+    <TextView
+        android:id="@+id/scientific"
+        android:text="@string/scientific"
+        style="@style/mainactivity_text_style"  />
+
+    <TextView
+        android:id="@+id/bmi"
+        android:text="@string/bmi"
+        style="@style/mainactivity_text_style"  />
+
+    <TextView
+        android:id="@+id/interest"
+        android:text="@string/interest"
+        style="@style/mainactivity_text_style"  />
+
+    <TextView
+        android:id="@+id/conversion"
+        android:text="@string/conversion"
+        style="@style/mainactivity_text_style"  />
+
+</LinearLayout>

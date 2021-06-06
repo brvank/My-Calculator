@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Calculator</string>
+    <string name="basic">Basic</string>
+    <string name="scientific">Scientific</string>
+    <string name="bmi">BMI</string>
+    <string name="interest">Interest</string>
+    <string name="conversion">Conversion</string>
+</resources>
